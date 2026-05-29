@@ -34,7 +34,7 @@ Fires on **every message you send**. Appends an exact timestamp to your message 
 ## Install
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/francis-codex/claude-clock.git
 cd claude-clock
 bash setup.sh
 ```
